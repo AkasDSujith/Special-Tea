@@ -1,0 +1,36 @@
+ingrendents needed{
+  milk(needed amount){
+      2 cups;
+  }
+  water(needed amount){
+      1 cup;
+  }
+  tea leaves||tea podwer(needed amount){
+      5/2 spoon; 
+  }
+  clove(needed amount){
+      3-6;
+  }
+  cardamon(needed amount){
+      5-7;
+  }
+  ginger(needed amount){
+      nail sized piece;
+  }
+  sugar (needed amount){
+      1-3 spoons 
+  }
+}
+vesels needed{
+    cup;
+    tea kenttle;
+    filter;
+    knife;
+}
+
+
+
+
+
+
+
